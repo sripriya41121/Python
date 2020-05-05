@@ -16,3 +16,4 @@ except Exception as e:
 
 finally:
     print("Terminated!")
+    print("Hip Hip Hurrey!") 
